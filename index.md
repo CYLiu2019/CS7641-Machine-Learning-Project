@@ -14,7 +14,7 @@ This site is organized into five different sections:
   <li>Dataset Overview</li>
   <li>Data Preprocessing</li>
   <li>Unsupervised Learning</li>
-  <li>Supervised Overview</li>
+  <li>Supervised Learning</li>
   <li>Conclusion</li>
  </ol>
 </p>
